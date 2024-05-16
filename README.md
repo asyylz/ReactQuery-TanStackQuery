@@ -31,7 +31,6 @@
             <code>npm start</code>
         </ol>
     </section>
-
     <section>
         <h2>Using TanStack React Query</h2>
         <h5>Overview</h5>
